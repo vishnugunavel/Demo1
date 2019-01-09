@@ -4,3 +4,4 @@ Create a Text file under new folder
 Newly created folder in local have to copy to the Fair copy folder
 Before making the fair copy folder
 Assign a Fairy copy permission 
+new test3 line from Jan72019
